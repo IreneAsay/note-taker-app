@@ -74,4 +74,4 @@ Email Address: irene.hsu.asay@gmail.com
 
 ## License
 
-© Irene Asay. All Rights Reserved. Under the [MIT/](./LICENSE.txt) license.
+© Irene Asay. All Rights Reserved. Under the [MIT/](./LICENSE) license.
